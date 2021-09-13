@@ -22,7 +22,7 @@ const ImageToggleOnScroll = ({ primaryImage, secondaryImage }) => {
     return () => {
       window.removeEventListener('scroll', scrollHandler);
     };
-  });
+  },[isLoading]);
 
   return (
     <img

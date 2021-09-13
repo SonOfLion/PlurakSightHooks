@@ -1,6 +1,6 @@
 // import InputElement from "./pages/InputElement";
 // import ImageChangeOnMouseOver from "./pages/ImageChangeOnMouseOver";
-import ImageChangeOnScroll from './pages/ImageChangeOnScroll'
+import ImageChangeOnScroll from './pages/ImageChangeOnScroll';
 
 function App() {
   return (
